@@ -7,7 +7,6 @@ function greet(name) {
     } else if (name == null) {
         return 'Hello there!'
     }
-    return 'Hello, ' + name
 }
 let names = ['Bob',' Pedro ', ' Mary']
 console.log(greet(names))
