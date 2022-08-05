@@ -1,2 +1,2 @@
 # Unit Testing Activity
-This file has been changed with the GUI.
+This assignment creates a function called 'greet' which returns a greting.  It also checks for specific cases, for example if the name is all caps, or if there are several names.

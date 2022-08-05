@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+In this assignment, we used an array called words.  We also used a variable called sentence, which we set to nothing.  We also created a for loop that would go through the whole words array, adding each item into the sentence variable.
