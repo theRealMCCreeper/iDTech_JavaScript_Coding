@@ -6,7 +6,9 @@ function greet(name) {
         return 'HELLO ' + name + '!'
     } else if (name == null) {
         return 'Hello there!'
+    } else {
+        return 'Hello, ' + name
     }
 }
-let names = ['Bob',' Pedro ', ' Mary']
-console.log(greet(names))
+//let names = ['Bob',' Pedro ', ' Mary']
+console.log(greet("Steve"))
